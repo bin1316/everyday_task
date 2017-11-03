@@ -1,0 +1,7 @@
+1.redo featurn engineering for house price prediction(hpp)
+2.make sense of model stacking/blending
+3.apply 2 in the hpp
+
+4.continue read ¡¶practical probabilistic programming¡·and make some practice
+
+Just do it! Waiting for your good news!
