@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-qwerqr
-=======
-qweq
->>>>>>> llb
